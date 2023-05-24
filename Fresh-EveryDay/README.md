@@ -1,3 +1,12 @@
+This is a group project for WOC7014 FRAMEWORK-BASED SOFTWARE DESIGN AND DEVELOPMENT
+Group J
+Name 	Metric number
+Nasib Ullah 	S2019652
+Hilman Hilmi 	22073279
+Yuhuan He 	S2165922
+Liu JiaLiang 	S2180651
+Jie Jiang 	S2183694
+
 ## Project Instruction
 1. Fresh Everyday B2C PC-website
 2. Functional modules: user module (registration/login/activation/exit/personal center/address), goods module (homepage/details/list/search), cart module (add/delete/modify/query), order module (submit order /request payment/query payment result/comment)
