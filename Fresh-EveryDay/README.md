@@ -1,4 +1,4 @@
-# ShopEase E-Commerce Website
+# Fresh Everyday E-Commerce Website
 This is a group project for WOC7014 FRAMEWORK-BASED SOFTWARE DESIGN AND DEVELOPMENT
  
 # Group J
